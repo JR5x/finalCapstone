@@ -4,7 +4,7 @@ This is an exploratory data analysis, principal component analysis and clusterin
 
 ## Installation
 
-To install, download both the finalCapstone.ipynb notebook and UsArrests.csv data file from the main branch into the same local folder, and open the notebook with Jupyter Notebook.
+To install, download both the finalCapstone.ipynb notebook and UsArrests.csv data file from the master branch into the same local folder, and open the notebook with Jupyter Notebook.
 
 ## Usage
 
